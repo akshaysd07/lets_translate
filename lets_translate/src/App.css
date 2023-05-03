@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+div{
+  padding :10px;  
+}
+select{
+  padding: 5px;
+}
+body{
+  background-image: url('../public/assets/translate.jpg');
+}
+.text{
+  background-color: aqua;
+}
